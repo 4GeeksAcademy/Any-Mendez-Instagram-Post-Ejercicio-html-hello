@@ -1,0 +1,41 @@
+.post{
+   background-color: rgb(156, 233, 224);
+   width: 400px;
+   margin: auto;
+}
+.post-header{
+    display: flex;
+    justify-content:space-between;
+    font-size: large;
+    margin: 5px;    
+}
+.fa-solid{
+    margin: 10px;
+}
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;   
+}
+.fa-bookmark{
+    margin-left: 300px;
+    margin-right: 10px;
+}
+
+.fa-brands{
+    font-size: xx-large;
+margin:5px 10px 10px 5px;}
+
+.post-body{
+    background-color:rgb(139, 230, 220);
+    text-align: justify;
+    border-radius: 15px;
+}
+.p{
+    text-align: justify;
+}
